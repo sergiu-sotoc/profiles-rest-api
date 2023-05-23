@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profiles REST API course code.
+Updated Profiles REST API course code.
